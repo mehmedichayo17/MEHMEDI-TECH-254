@@ -1,4 +1,4 @@
-<header>
+<MEHMEDI TECH>
 
 <!--
   <<< Author notes: Course header >>>
@@ -41,10 +41,10 @@ In this course, you will:
 
 <!-- For start course, run in JavaScript:
 'https://github.com/new?' + new URLSearchParams({
-  template_owner: 'skills',
-  template_name: 'github-pages',
-  owner: '@me',
-  name: 'skills-github-pages',
+  template_owner: 'MEHMEDI TECH 254,
+  template_name: 'MEHMEDI TECH,
+  owner: '+254723166584',
+  name: 'MEHMEDI TECH 254,
   description: 'My clone repository',
   visibility: 'public',
 }).toString()
@@ -70,6 +70,6 @@ In this course, you will:
 
 Get help: [Post in our discussion board](https://github.com/orgs/skills/discussions/categories/github-pages) &bull; [Review the GitHub status page](https://www.githubstatus.com/)
 
-&copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
+&copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
